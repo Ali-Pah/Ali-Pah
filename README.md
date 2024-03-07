@@ -15,7 +15,7 @@
 + Machine Learning
 
 ## Let's See
-- 🔭 I’m currently working on KASA (Intelligent Cars) 
+- 🔭 I’m currently working on VIO/SLAM Module
 - 🌱 I’m currently learning Lots of Stuff... 
 - 💬 Ask me about What I know, not what I don't know 
 - 📫 How to reach me: a.pahlevani1998@gmail.com 
