@@ -1,6 +1,6 @@
 ### Hi there 👋, Ali Pahlevani
 #### Autonomous Vehicles
-![Autonomous Vehicles](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Autonomous Vehicles](https://github.com/Ali-Pah/Ali-Pah/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 **GNC (Guidance, Navigation, Control) Engineer**
 * Love to code (Sensor Fusion, Control, Navigation and VIO, Optimization, ML)
