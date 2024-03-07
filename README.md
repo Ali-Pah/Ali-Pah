@@ -6,7 +6,8 @@
 * Love to build (Autonomous Robots)
 
 ## Skills and Experience
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> C++
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></div>div> <b>C++</b>
+
 Skills: MATLAB / Python / C++ / ROS / ML / Optimization / Control / Navigation / ML
 
 - 🔭 I’m currently working on KASA (Intelligent Cars) 
