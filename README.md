@@ -1,6 +1,15 @@
-### Hello Dear 👋
+### Hi there 👋, Ali Pahlevani
+#### Autonomous Vehicles
+![Autonomous Vehicles](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Ali Pahlevani ... / You can check out my linkedIn at ...
+**GNC (Guidance, Navigation, Control) Engineer**
+* Love to code (Sensor Fusion, Control, Navigation and VIO, Optimization, ML)
+* Love to build (Autonomous Robots)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-pah)](https://github.com/anuraghazra/github-readme-stats)
+Skills: MATLAB / Python / C++ / ROS / ML / Optimization / Control / Navigation / ML
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
