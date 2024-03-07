@@ -14,6 +14,7 @@
 + Optimization
 + Machine Learning
 
+## Let's See
 - 🔭 I’m currently working on KASA (Intelligent Cars) 
 - 🌱 I’m currently learning Lots of Stuff... 
 - 💬 Ask me about What I know, not what I don't know 
