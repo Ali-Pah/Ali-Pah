@@ -6,7 +6,8 @@
 * Love to build (Autonomous Robots)
 
 ## Skills and Experience
-<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <b> <br>C++</b> </div>
+<div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <b><br>C++</b> </div>
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> <b><br>MATLAB</b> </div>
 
 Skills: MATLAB / Python / C++ / ROS / ML / Optimization / Control / Navigation / ML
 
