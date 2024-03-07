@@ -8,8 +8,16 @@
 
 Skills: MATLAB / Python / C++ / ROS / ML / Optimization / Control / Navigation / ML
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on KASA (Intelligent Cars) 
+- 🌱 I’m currently learning Lots of Stuff... 
+- 💬 Ask me about What I know, not what I don't know 
+- 📫 How to reach me: a.pahlevani1998@gmail.com 
+- 😄 Pronouns: Come on... 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-pah)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-pah&show_icons=true)  
 
