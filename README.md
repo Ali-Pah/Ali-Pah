@@ -24,7 +24,6 @@
 ##
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ali-pah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-pahlevani/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-pah)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-pah&show_icons=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-pah)](https://github.com/anuraghazra/github-readme-stats)
